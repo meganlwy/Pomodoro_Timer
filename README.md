@@ -9,7 +9,7 @@ Just like any classic pomodoro timer, you can:
 2. Take a break for 5 minutes
 3. 1st cycle completed, a tomato will be added at the buttom
 4. Go back to work and rest for the next cycle
-5. Repeat 4 times and you will get a long break for 20 minutes
+5. Repeat 4 times and you will get a long break for 20 minutes<br>
 p.s. You can rest the timer anytime, just click the 'reset' button
 
 ## Demo
